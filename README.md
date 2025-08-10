@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Dimas Wahyu Sejati](/dimaswahyusejati/img/header-banner.jpg)
+
 <!--
 **DimasWahyuSejati/dimaswahyusejati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏫 I’m students of the informatics program at **University of Tecnology Yoyakarta**
+- 🌱 I’m currently learning [**Kotlin**](https://www.w3schools.com/kotlin/index.php)
